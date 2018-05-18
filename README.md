@@ -13,6 +13,4 @@ spanish_corpus.csv: the common word list for Spanish
 
 prediction_ananysis: a notebook for result analysis
 
-Eng_LC.png: the Learning Curve for English
 
-Spa_LC.png: the Learning Curve for Spanish
